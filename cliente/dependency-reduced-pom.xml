@@ -43,9 +43,9 @@
     </dependency>
   </dependencies>
   <properties>
-    <maven.compiler.target>21</maven.compiler.target>
+    <maven.compiler.target>1.9</maven.compiler.target>
     <exec.mainClass>com.example.cliente.App</exec.mainClass>
-    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.source>1.9</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 </project>
